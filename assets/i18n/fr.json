@@ -1,0 +1,77 @@
+{
+    "home": {
+        "subtitle": "Parcourez les menus des restaurants près de chez vous",
+        "choose_language": "Changez la langue",
+        "desired_service": "Choisissez le service désiré",
+        "table": "Manger sur place",
+        "table_subtitle": "Évitez les temps d'attente et commandez à l'avance",
+        "drive": "Service au volant",
+        "drive_subtitle": "À emporter",
+        "pickup": "À emporter",
+        "pickup_subtitle": "Récupérez votre commande au comptoir sans attendre",
+        "delivery": "Livraison",
+        "delivery_subtitle": "Livraison à domicile"
+    },
+    "drawer": {
+        "fidelity_points": "Points de fidélité",
+        "orders": "Mes Commandes",
+        "complaints": "Reclamations",
+        "refund": "Remboursement",
+        "customer_service": "Service Clients",
+        "logout": "Se déconnecter"
+    },
+    "shop": {
+        "search": "Recherche par nom, spécialité ou adresse",
+        "no_store_match": "Aucun magasin ne correspond au terme de recherche"
+    },
+    "product": {
+        "order_fab_title": "Commander {} articles: {}MAD"
+    },
+    "cart": {
+        "add_to_cart": "Ajouter au panier",
+        "send_order": "Transmettre Commande",
+        "check_order": "Vérifiez votre commande",
+        "msg_order_transmitted": "Commande transmise avec succès",
+        "change_desired_service": "Modifier le service souhaité",
+        "order_on_site": "Commande à consommer sur place à ",
+        "order_to_delivery": "Commande à livrer par ",
+        "order_to_picked": "Commande à recuperer au comptoir de ",
+        "order_curbside": "Commande à recuperer devant "
+    },
+    "profile": {
+        "add_phone_number": "Ajouter un numéro de téléphone",
+        "required": "Obligatoire",
+        "invalid_phone":"Téléphone invalide",
+        "reset_password": {
+            "label": "Reset Password",
+            "username": "Username",
+            "password": "password"
+        }
+    },
+    "clicked": {
+        "zero": "You clicked {} times!",
+        "one": "You clicked {} time!",
+        "two": "You clicked {} times!",
+        "few": "You clicked {} times!",
+        "many": "You clicked {} times!",
+        "other": "You clicked {} times!"
+    },
+    "amount": {
+        "zero": "Your amount : {} ",
+        "one": "Your amount : {} ",
+        "two": "Your amount : {} ",
+        "few": "Your amount : {} ",
+        "many": "Your amount : {} ",
+        "other": "Your amount : {} "
+    },
+    "gender": {
+        "male": "Hi man ;) ",
+        "female": "Hello girl :)",
+        "with_arg": {
+            "male": "Hi man ;) {}",
+            "female": "Hello girl :) {}"
+        }
+    },
+    "went_wrong": "Un problème est survenu",
+    "reset_locale": "Reset Saved Language"
+}

@@ -1,0 +1,77 @@
+{
+    "home": {
+        "subtitle": "Browse restaurant menus near you",
+        "choose_language": "Change Language",
+        "desired_service": "Choose the desired service",
+        "table": "Dine-in",
+        "table_subtitle": "Skip wait times & order ahead for dine‑in",
+        "drive": "Curbside",
+        "drive_subtitle": "Drive-thru",
+        "delivery": "Delivery",
+        "delivery_subtitle": "Home delivery",
+        "pickup": "Pick up",
+        "pickup_subtitle": "Pick up your order with no wait. Just grab and go"
+    },
+    "drawer": {
+        "fidelity_points": "Fedility Points",
+        "orders": "My orders",
+        "complaints": "Complaints",
+        "refund": "Refund",
+        "customer_service": "Customer Service",
+        "logout": "LogOut"
+    },
+    "shop": {
+        "search": "Search by name, specialty or address",
+        "no_store_match": "No stores match the search terme!"
+    },
+    "product": {
+        "order_fab_title": "Order {} items: {} MAD"
+    },
+    "cart": {
+        "add_to_cart": "Add to Cart",
+        "send_order": "Send Order",
+        "check_order": "Check your order",
+        "msg_order_transmitted":"Order successfully transmitted",
+        "change_desired_service": "Modify the desired service",
+        "order_on_site": "Order to consume on site at ",
+        "order_to_delivery": "Order to be delivered by ",
+        "order_to_picked": "Order to be picked up at the counter of ",
+        "order_curbside": "Order to be collected in front of a  "
+    },
+    "profile": {
+        "add_phone_number":"Add a phone number",
+        "required": "Required",
+        "invalid_phone":"Invalid phone",
+        "reset_password": {
+            "label": "Reset Password",
+            "username": "Username",
+            "password": "password"
+        }
+    },
+    "clicked": {
+        "zero": "You clicked {} times!",
+        "one": "You clicked {} time!",
+        "two": "You clicked {} times!",
+        "few": "You clicked {} times!",
+        "many": "You clicked {} times!",
+        "other": "You clicked {} times!"
+    },
+    "amount": {
+        "zero": "Your amount : {} ",
+        "one": "Your amount : {} ",
+        "two": "Your amount : {} ",
+        "few": "Your amount : {} ",
+        "many": "Your amount : {} ",
+        "other": "Your amount : {} "
+    },
+    "gender": {
+        "male": "Hi man ;) ",
+        "female": "Hello girl :)",
+        "with_arg": {
+            "male": "Hi man ;) {}",
+            "female": "Hello girl :) {}"
+        }
+    },
+    "went_wrong": "Something went wrong",
+    "reset_locale": "Reset Saved Language"
+}
